@@ -9,7 +9,7 @@ using RandomNumber.Models;
 
 namespace RandomNumber.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/randomnumbers")]
     [ApiController]
     public class GeneratedNumbersController : ControllerBase
     {
